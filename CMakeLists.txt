@@ -113,3 +113,15 @@ generate_messages(
 catkin_package(
 #  INCLUDE_DIRS include
 #  LIBRARIES opencv_object_tracking
+  CATKIN_DEPENDS message_generation roscpp std_msgs geometry_msgs message_runtime image_transport cv_bridge
+#  DEPENDS system_lib
+)
+
+###########
+## Build ##
+###########
+
+## Specify additional locations of header files
+## Your package locations should be listed before other locations
+include_directories(
+  ${catkin_INCLUDE_DIRS}
