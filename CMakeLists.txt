@@ -202,3 +202,4 @@ target_link_libraries(object_filter ${catkin_LIBRARIES} ${OpenCV_LIBRARIES})
 # endif()
 
 ## Add folders to be run by python nosetests
+# catkin_add_nosetests(test)
