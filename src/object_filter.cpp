@@ -1,1 +1,1 @@
-/* Copyright by Hu
+/* Copyright by Huong Do Van -
