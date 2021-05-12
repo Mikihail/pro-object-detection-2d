@@ -6,4 +6,5 @@ Any suggestion or advice, pls send via email: vanhuong.robotics@gmail.com
 #include <opencv2/highgui/highgui.hpp>
 #include <opencv2/opencv.hpp>
 #include "opencv_object_tracking/position_publish.h"
-#include <sensor_m
+#include <sensor_msgs/PointCloud2.h>
+#inc
