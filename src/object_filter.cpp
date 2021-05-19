@@ -8,4 +8,5 @@ Any suggestion or advice, pls send via email: vanhuong.robotics@gmail.com
 #include "opencv_object_tracking/position_publish.h"
 #include <sensor_msgs/PointCloud2.h>
 #include <geometry_msgs/Point.h>
-#include "std_msgs/Stri
+#include "std_msgs/String.h"
+#include<ss
