@@ -11,4 +11,5 @@ Any suggestion or advice, pls send via email: vanhuong.robotics@gmail.com
 #include "std_msgs/String.h"
 #include<sstream>
 // Add new topic
-#include "geometry_msgs/Poin
+#include "geometry_msgs/Point.h"
+#incl
