@@ -18,4 +18,5 @@ Any suggestion or advice, pls send via email: vanhuong.robotics@gmail.com
 #include <image_transport/image_transport.h>
 #include <cv_bridge/cv_bridge.h>
 #include <sensor_msgs/image_encodings.h>
-// Add globa
+// Add global variable for pixel.
+bo
