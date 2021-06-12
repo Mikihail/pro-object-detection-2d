@@ -21,4 +21,5 @@ Any suggestion or advice, pls send via email: vanhuong.robotics@gmail.com
 // Add global variable for pixel.
 bool flag;
 int posX = 0;
-int posY = 0
+int posY = 0;
+float X_111 =
