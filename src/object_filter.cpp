@@ -19,4 +19,4 @@ Any suggestion or advice, pls send via email: vanhuong.robotics@gmail.com
 #include <cv_bridge/cv_bridge.h>
 #include <sensor_msgs/image_encodings.h>
 // Add global variable for pixel.
-bo
+bool flag
