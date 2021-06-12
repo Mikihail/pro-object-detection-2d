@@ -20,4 +20,5 @@ Any suggestion or advice, pls send via email: vanhuong.robotics@gmail.com
 #include <sensor_msgs/image_encodings.h>
 // Add global variable for pixel.
 bool flag;
-int posX 
+int posX = 0;
+int posY = 0
