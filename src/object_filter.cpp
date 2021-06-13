@@ -22,4 +22,5 @@ Any suggestion or advice, pls send via email: vanhuong.robotics@gmail.com
 bool flag;
 int posX = 0;
 int posY = 0;
-float X_111 =
+float X_111 = 0.0;
+float Y
