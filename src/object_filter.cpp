@@ -24,4 +24,5 @@ int posX = 0;
 int posY = 0;
 float X_111 = 0.0;
 float Y_111 = 0.0;
-float Z
+float Z_111 = 0.0;
+float x_v
