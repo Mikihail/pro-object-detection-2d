@@ -25,4 +25,4 @@ int posY = 0;
 float X_111 = 0.0;
 float Y_111 = 0.0;
 float Z_111 = 0.0;
-float x_v
+float x_value, y_value, z
