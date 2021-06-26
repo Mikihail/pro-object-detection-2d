@@ -26,4 +26,4 @@ float X_111 = 0.0;
 float Y_111 = 0.0;
 float Z_111 = 0.0;
 float x_value, y_value, z_value;
-int x_position, y_
+int x_position, y_position, z_position;
