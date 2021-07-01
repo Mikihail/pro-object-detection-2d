@@ -28,3 +28,4 @@ float Z_111 = 0.0;
 float x_value, y_value, z_value;
 int x_position, y_position, z_position;
 //End of global variable.
+cv_bridge::CvImagePt
