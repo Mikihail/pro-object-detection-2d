@@ -30,4 +30,5 @@ int x_position, y_position, z_position;
 //End of global variable.
 cv_bridge::CvImagePtr cv_ptr;
 sensor_msgs::PointCloud2 my_pcl;
-using namespace st
+using namespace std;
+using namesp
