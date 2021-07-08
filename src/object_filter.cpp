@@ -32,4 +32,5 @@ cv_bridge::CvImagePtr cv_ptr;
 sensor_msgs::PointCloud2 my_pcl;
 using namespace std;
 using namespace cv;
-int H_
+int H_MIN = 0;
+int H_MA
