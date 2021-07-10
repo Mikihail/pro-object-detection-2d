@@ -37,4 +37,5 @@ int H_MAX = 256;
 int S_MIN = 0;
 int S_MAX = 256;
 int V_MIN = 0;
-int V_MA
+int V_MAX = 256;
+//P
