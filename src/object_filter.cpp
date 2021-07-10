@@ -35,4 +35,4 @@ using namespace cv;
 int H_MIN = 0;
 int H_MAX = 256;
 int S_MIN = 0;
-int S_
+int S_MAX = 256;
