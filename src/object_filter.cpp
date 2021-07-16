@@ -41,4 +41,4 @@ int V_MAX = 256;
 //Publishe new topic
 ros::Publisher *pub;
 const int FRAME_WIDTH = 640;
-c
+const int FRAME_
