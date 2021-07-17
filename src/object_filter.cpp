@@ -42,4 +42,4 @@ int V_MAX = 256;
 ros::Publisher *pub;
 const int FRAME_WIDTH = 640;
 const int FRAME_HEIGHT = 480;
-cons
+const int MAX_NUM_OBJ
