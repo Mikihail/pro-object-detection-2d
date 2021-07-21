@@ -44,4 +44,4 @@ const int FRAME_WIDTH = 640;
 const int FRAME_HEIGHT = 480;
 const int MAX_NUM_OBJECTS = 50;
 const int MIN_OBJECT_AREA = 20 * 20;
-const int MAX_OBJECT
+const int MAX_OBJECT_AREA = FRAME
