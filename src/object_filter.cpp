@@ -47,3 +47,4 @@ const int MIN_OBJECT_AREA = 20 * 20;
 const int MAX_OBJECT_AREA = FRAME_HEIGHT * FRAME_WIDTH / 1.5;
 
 static const std::string OPENCV_WINDOW = "Image Window";
+static con
