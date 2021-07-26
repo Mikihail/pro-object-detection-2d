@@ -48,4 +48,4 @@ const int MAX_OBJECT_AREA = FRAME_HEIGHT * FRAME_WIDTH / 1.5;
 
 static const std::string OPENCV_WINDOW = "Image Window";
 static const std::string windowName1 = "HSV image";
-static cons
+static const std::string window
