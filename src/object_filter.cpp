@@ -50,4 +50,6 @@ static const std::string OPENCV_WINDOW = "Image Window";
 static const std::string windowName1 = "HSV image";
 static const std::string windowName2 = "Thresholded Image";
 static const std::string windowName3 = "After Morphological Operations";
-static const std::string trackbarWindowName = "Tr
+static const std::string trackbarWindowName = "Track bars";
+
+voi
