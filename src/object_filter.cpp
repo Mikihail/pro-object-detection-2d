@@ -52,4 +52,4 @@ static const std::string windowName2 = "Thresholded Image";
 static const std::string windowName3 = "After Morphological Operations";
 static const std::string trackbarWindowName = "Track bars";
 
-voi
+void on_trackbar(in
