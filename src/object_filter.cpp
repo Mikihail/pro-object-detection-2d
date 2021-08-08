@@ -53,4 +53,6 @@ static const std::string windowName3 = "After Morphological Operations";
 static const std::string trackbarWindowName = "Track bars";
 
 void on_trackbar(int, void*){}
-string intToString(in
+string intToString(int number)
+{
+ 
