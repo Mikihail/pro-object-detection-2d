@@ -55,4 +55,4 @@ static const std::string trackbarWindowName = "Track bars";
 void on_trackbar(int, void*){}
 string intToString(int number)
 {
- 
+        std::str
