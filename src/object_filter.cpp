@@ -56,4 +56,4 @@ void on_trackbar(int, void*){}
 string intToString(int number)
 {
         std::stringstream ss;
-    
+        ss << number;
