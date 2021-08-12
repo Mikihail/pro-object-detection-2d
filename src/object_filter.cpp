@@ -59,4 +59,6 @@ string intToString(int number)
         ss << number;
         return ss.str();
 }
-void createTrackba
+void createTrackbars()
+{
+ 
