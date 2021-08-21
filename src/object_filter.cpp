@@ -62,4 +62,5 @@ string intToString(int number)
 void createTrackbars()
 {
         //Create window for trackbars
-        namedWindow("Track_bars", 0
+        namedWindow("Track_bars", 0);
+        char T
