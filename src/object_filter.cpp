@@ -65,4 +65,4 @@ void createTrackbars()
         namedWindow("Track_bars", 0);
         char TrackbarName[50];
         createTrackbar("H_MIN", "Track_bars", &H_MIN, H_MAX, on_trackbar);
-        createTrackbar("H_MAX", "Tra
+        createTrackbar("H_MAX", "Track_bars", &H_MAX
