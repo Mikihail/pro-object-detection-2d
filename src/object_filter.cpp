@@ -69,4 +69,7 @@ void createTrackbars()
         createTrackbar("S_MIN", "Track_bars", &S_MIN, S_MAX, on_trackbar);
         createTrackbar("S_MAX", "Track_bars", &S_MAX, S_MAX, on_trackbar);
         createTrackbar("V_MIN", "Track_bars", &V_MIN, V_MAX, on_trackbar);
-        createTrackbar("V_MAX", "Track_bars", &V_MAX, V_MAX, on_track
+        createTrackbar("V_MAX", "Track_bars", &V_MAX, V_MAX, on_trackbar);
+}
+
+void 
