@@ -72,4 +72,4 @@ void createTrackbars()
         createTrackbar("V_MAX", "Track_bars", &V_MAX, V_MAX, on_trackbar);
 }
 
-void 
+void drawObject(int 
