@@ -74,4 +74,4 @@ void createTrackbars()
 
 void drawObject(int x, int y, Mat &frame)
 {
-  
+        circle(fr
