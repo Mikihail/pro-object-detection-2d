@@ -77,4 +77,5 @@ void drawObject(int x, int y, Mat &frame)
         circle(frame, Point(x, y), 40, Scalar(0, 255, 0), 2); //50
         if (y - 25 > 0)
                 line(frame, Point(x, y), Point(x, y - 25), Scalar(0, 255, 0), 2);
-        else line(frame, Point(x, y), Point(x, 0), Scalar
+        else line(frame, Point(x, y), Point(x, 0), Scalar(0, 255, 0), 2);
+  
