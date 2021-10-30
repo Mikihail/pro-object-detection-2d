@@ -84,4 +84,4 @@ void drawObject(int x, int y, Mat &frame)
         if (x - 25 > 0)
                 line(frame, Point(x, y), Point(x - 25, y), Scalar(0, 255, 0), 2);
         else line(frame, Point(x, y), Point(0, y), Scalar(0, 255, 0), 2);
-        if 
+        if (x + 25 < FRA
