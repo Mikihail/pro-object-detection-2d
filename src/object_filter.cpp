@@ -86,4 +86,4 @@ void drawObject(int x, int y, Mat &frame)
         else line(frame, Point(x, y), Point(0, y), Scalar(0, 255, 0), 2);
         if (x + 25 < FRAME_WIDTH)
                 line(frame, Point(x, y), Point(x + 25, y), Scalar(0, 255, 0), 2);
-        else line(frame, Point(x, y), Poi
+        else line(frame, Point(x, y), Point(FRAME_
