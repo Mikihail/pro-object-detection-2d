@@ -88,4 +88,4 @@ void drawObject(int x, int y, Mat &frame)
                 line(frame, Point(x, y), Point(x + 25, y), Scalar(0, 255, 0), 2);
         else line(frame, Point(x, y), Point(FRAME_WIDTH, y), Scalar(0, 255, 0), 2);
 
-        putText(frame, intToString(x) + "," + intToString(y), Point(x, y + 30), 1, 1, Sc
+        putText(frame, intToString(x) + "," + intToString(y), Point(x, y + 30), 1, 1, Scalar(0, 255, 0), 2);
