@@ -92,4 +92,4 @@ void drawObject(int x, int y, Mat &frame)
         ::posX = x;
         ::posY = y;
         putText(frame, "X_Y_Z coordinate", Point(20, 200), 1, 2, Scalar(0, 255, 0), 2);
-        putText(frame, "X = " + intToString(x_position)
+        putText(frame, "X = " + intToString(x_position) + "(mm)" , Po
