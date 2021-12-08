@@ -97,4 +97,4 @@ void drawObject(int x, int y, Mat &frame)
         putText(frame, "Z = " + intToString(z_position) + "(mm)" , Point(20, 350), 1, 2, Scalar(0, 255, 0), 2);
 
 }
-v
+void morphOp
