@@ -99,4 +99,4 @@ void drawObject(int x, int y, Mat &frame)
 }
 void morphOps(Mat &thresh)
 {
-        Mat erodeElement = getStructuring
+        Mat erodeElement = getStructuringElement(MORPH_RE
