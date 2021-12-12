@@ -100,3 +100,4 @@ void drawObject(int x, int y, Mat &frame)
 void morphOps(Mat &thresh)
 {
         Mat erodeElement = getStructuringElement(MORPH_RECT, Size(3, 3));
+        Mat dilat
