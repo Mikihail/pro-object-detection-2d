@@ -102,4 +102,4 @@ void morphOps(Mat &thresh)
         Mat erodeElement = getStructuringElement(MORPH_RECT, Size(3, 3));
         Mat dilateElement = getStructuringElement(MORPH_RECT, Size(8, 8));
 
-        erode(thresh, thre
+        erode(thresh, thresh, erodeEl
