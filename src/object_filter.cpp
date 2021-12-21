@@ -106,4 +106,6 @@ void morphOps(Mat &thresh)
         erode(thresh, thresh, erodeElement);
 
         dilate(thresh, thresh, dilateElement);
-        dilate(thresh, thresh, dilateEleme
+        dilate(thresh, thresh, dilateElement);
+}
+void trac
