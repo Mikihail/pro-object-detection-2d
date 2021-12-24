@@ -108,4 +108,4 @@ void morphOps(Mat &thresh)
         dilate(thresh, thresh, dilateElement);
         dilate(thresh, thresh, dilateElement);
 }
-void trac
+void trackFilteredObje
