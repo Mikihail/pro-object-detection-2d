@@ -110,4 +110,4 @@ void morphOps(Mat &thresh)
 }
 void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
 {
-    
+        Mat temp;
