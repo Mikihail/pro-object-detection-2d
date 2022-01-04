@@ -111,4 +111,5 @@ void morphOps(Mat &thresh)
 void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
 {
         Mat temp;
-        threshold.copyTo(temp
+        threshold.copyTo(temp);
+        //Thes
