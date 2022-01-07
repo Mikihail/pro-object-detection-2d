@@ -112,4 +112,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
 {
         Mat temp;
         threshold.copyTo(temp);
-        //These two vector
+        //These two vectors needed for output
