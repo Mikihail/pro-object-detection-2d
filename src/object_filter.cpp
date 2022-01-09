@@ -114,4 +114,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
         threshold.copyTo(temp);
         //These two vectors needed for output of findContours
         vector< vector<Point> > contours;
-        vec
+        vector<Vec4i> 
