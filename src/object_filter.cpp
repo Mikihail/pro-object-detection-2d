@@ -115,4 +115,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
         //These two vectors needed for output of findContours
         vector< vector<Point> > contours;
         vector<Vec4i> hierarchy;
-        //Find contours of filtered image using ope
+        //Find contours of filtered image using openCV findContour
