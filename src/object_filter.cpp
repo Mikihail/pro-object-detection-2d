@@ -117,4 +117,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
         vector<Vec4i> hierarchy;
         //Find contours of filtered image using openCV findContours function
         findContours(temp, contours, hierarchy, CV_RETR_CCOMP, CV_CHAIN_APPROX_SIMPLE);
-        //Use m
+        //Use moments method
