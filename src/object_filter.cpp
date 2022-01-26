@@ -120,3 +120,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
         //Use moments method to find our filtered object
         double refArea = 0;
         bool objectFound = false;
+        if 
