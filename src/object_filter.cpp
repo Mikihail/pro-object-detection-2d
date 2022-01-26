@@ -119,4 +119,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
         findContours(temp, contours, hierarchy, CV_RETR_CCOMP, CV_CHAIN_APPROX_SIMPLE);
         //Use moments method to find our filtered object
         double refArea = 0;
-        bool object
+        bool objectFound = false;
