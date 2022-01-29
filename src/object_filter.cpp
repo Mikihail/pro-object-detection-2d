@@ -122,4 +122,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
         bool objectFound = false;
         if (hierarchy.size() > 0)
         {
-               
+                int numObjects = 
