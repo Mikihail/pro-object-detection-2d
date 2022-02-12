@@ -123,4 +123,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
         if (hierarchy.size() > 0)
         {
                 int numObjects = hierarchy.size();
-                //if number of objects greater than MAX_NU
+                //if number of objects greater than MAX_NUM_OBJECTS we hav
