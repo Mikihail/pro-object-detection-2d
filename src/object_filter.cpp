@@ -126,4 +126,5 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                 //if number of objects greater than MAX_NUM_OBJECTS we have a noisy filter
                 if (numObjects < MAX_NUM_OBJECTS)
                 {
-                        for (int index = 0; index >= 0; index = hierarchy[inde
+                        for (int index = 0; index >= 0; index = hierarchy[index][0])
+            
