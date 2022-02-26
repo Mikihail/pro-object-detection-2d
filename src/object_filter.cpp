@@ -128,4 +128,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                 {
                         for (int index = 0; index >= 0; index = hierarchy[index][0])
                         {
-                               
+                                Moments moment 
