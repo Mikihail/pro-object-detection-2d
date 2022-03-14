@@ -131,4 +131,5 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                                 Moments moment = moments((cv::Mat)contours[index]);
                                 double area = moment.m00;
                                 //if the area is less than 20 px by 20px then it is probably just noise
-                                //if the area is the same as the 3/2 of the image size, probably just a bad filt
+                                //if the area is the same as the 3/2 of the image size, probably just a bad filter
+              
