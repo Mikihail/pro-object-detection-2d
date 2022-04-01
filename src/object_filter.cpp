@@ -134,4 +134,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                                 //if the area is the same as the 3/2 of the image size, probably just a bad filter
                                 //we only want the object with the largest area so we safe a reference area each
                                 //iteration and compare it to the area in the next iteration.
-                                if (area > MIN_OBJECT_AREA && area<M
+                                if (area > MIN_OBJECT_AREA && area<MAX_OBJECT_AREA
