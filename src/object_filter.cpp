@@ -135,4 +135,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                                 //we only want the object with the largest area so we safe a reference area each
                                 //iteration and compare it to the area in the next iteration.
                                 if (area > MIN_OBJECT_AREA && area<MAX_OBJECT_AREA && area>refArea)
-     
+                 
