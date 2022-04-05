@@ -136,3 +136,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                                 //iteration and compare it to the area in the next iteration.
                                 if (area > MIN_OBJECT_AREA && area<MAX_OBJECT_AREA && area>refArea)
                                 {
+                  
