@@ -137,4 +137,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                                 if (area > MIN_OBJECT_AREA && area<MAX_OBJECT_AREA && area>refArea)
                                 {
                                         x = moment.m10 / area;
-                 
+                               
