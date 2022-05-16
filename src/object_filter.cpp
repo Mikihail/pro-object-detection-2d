@@ -145,4 +145,5 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                                 else
                                 {
                                  objectFound = false;
-                                 ::flag 
+                                 ::flag = false;
+         
