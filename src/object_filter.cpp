@@ -149,4 +149,5 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                                 }
                         }
                         //let user know you found an object
-                        if (objectFound =
+                        if (objectFound == true)
+         
