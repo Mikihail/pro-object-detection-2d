@@ -152,4 +152,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                         if (objectFound == true)
                         {
                                 //::flag = true;
-                                putText(cameraFeed,
+                                putText(cameraFeed, "Position Object t
