@@ -153,4 +153,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                         {
                                 //::flag = true;
                                 putText(cameraFeed, "Position Object tracking ", Point(0, 50), 2, 1, Scalar(0, 255, 0), 2);
-                                //draw object loc
+                                //draw object location on s
