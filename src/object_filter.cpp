@@ -157,4 +157,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                                 drawObject(x, y, cameraFeed);
                         }
 
-    
+                }
