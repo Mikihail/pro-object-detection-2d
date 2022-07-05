@@ -158,4 +158,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                         }
 
                 }
-                else putText(camer
+                else putText(cameraFeed, "TOO MU
