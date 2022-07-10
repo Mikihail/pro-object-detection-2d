@@ -158,4 +158,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
                         }
 
                 }
-                else putText(cameraFeed, "TOO MUCH NOISE! ADJUST FILTER",
+                else putText(cameraFeed, "TOO MUCH NOISE! ADJUST FILTER", Point(0, 50), 1, 2, S
