@@ -162,4 +162,4 @@ void trackFilteredObject(int &x, int &y, Mat threshold, Mat &cameraFeed)
         }
 }
 
-void imageCallback(
+void imageCallback(const sensor_
