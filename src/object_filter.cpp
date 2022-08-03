@@ -167,4 +167,4 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
     cv_bridge::CvImagePtr cv_ptr;
         try
         {
-            cv_ptr = cv_bridge::toCvCopy (msg,
+            cv_ptr = cv_bridge::toCvCopy (msg, sensor_msgs::i
