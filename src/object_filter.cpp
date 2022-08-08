@@ -168,4 +168,5 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
         try
         {
             cv_ptr = cv_bridge::toCvCopy (msg, sensor_msgs::image_encodings::BGR8);
+        }
      
