@@ -171,4 +171,4 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
         }
         catch (cv_bridge::Exception& e)
         {
-        
+            ROS_ERROR("cv_br
