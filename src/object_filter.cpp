@@ -175,4 +175,4 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
             return;
         }
 
-    bool trackObje
+    bool trackObjects = true; //
