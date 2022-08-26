@@ -176,4 +176,6 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
         }
 
     bool trackObjects = true; //false
-	bool useMorphOps = tru
+	bool useMorphOps = true;  //false
+
+	Mat
