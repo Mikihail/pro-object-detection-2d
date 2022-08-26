@@ -179,4 +179,5 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 	bool useMorphOps = true;  //false
 
 	Mat HSV;
-	Mat th
+	Mat threshold;
+	int x 
