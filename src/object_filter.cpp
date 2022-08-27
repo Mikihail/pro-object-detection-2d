@@ -181,4 +181,5 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 	Mat HSV;
 	Mat threshold;
 	int x = 0, y = 0;
-	createTr
+	createTrackbars();
+	std::
