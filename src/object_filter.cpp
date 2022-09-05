@@ -182,4 +182,4 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 	Mat threshold;
 	int x = 0, y = 0;
 	createTrackbars();
-	std::cout << " The output of Object trac
+	std::cout << " The output of Object tracking by OpenCV!\n";
