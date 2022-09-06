@@ -184,4 +184,6 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 	createTrackbars();
 	std::cout << " The output of Object tracking by OpenCV!\n";
 
-    cvtColor(cv_ptr->image, HSV, COLOR_B
+    cvtColor(cv_ptr->image, HSV, COLOR_BGR2HSV);
+
+   
