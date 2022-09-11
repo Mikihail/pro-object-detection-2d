@@ -186,4 +186,4 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 
     cvtColor(cv_ptr->image, HSV, COLOR_BGR2HSV);
 
-    inRange(HSV, Scalar(H_MIN, S_MIN, V_MIN), Scalar(H_MAX, 
+    inRange(HSV, Scalar(H_MIN, S_MIN, V_MIN), Scalar(H_MAX, S_MAX, V_MAX),
