@@ -189,4 +189,6 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
     inRange(HSV, Scalar(H_MIN, S_MIN, V_MIN), Scalar(H_MAX, S_MAX, V_MAX), threshold);
 
     if (useMorphOps)
-        morphOps(thre
+        morphOps(threshold);
+
+    
