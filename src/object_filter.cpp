@@ -192,4 +192,4 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
         morphOps(threshold);
 
     if (trackObjects)
-        trackFilteredO
+        trackFilteredObject(x, y, thr
