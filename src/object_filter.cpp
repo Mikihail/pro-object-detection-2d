@@ -191,4 +191,5 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
     if (useMorphOps)
         morphOps(threshold);
 
-    if (trackObje
+    if (trackObjects)
+        tra
