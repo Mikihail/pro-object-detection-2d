@@ -194,4 +194,5 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
     if (trackObjects)
         trackFilteredObject(x, y, threshold, cv_ptr->image);
     //show frames
-    imshow(windowName2, thresho
+    imshow(windowName2, threshold);
+    //imshow
