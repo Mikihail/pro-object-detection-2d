@@ -196,4 +196,4 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
     //show frames
     imshow(windowName2, threshold);
     //imshow(OPENCV_WINDOW, cameraFeed);
-    cv::imshow(OPENCV_WINDOW, cv
+    cv::imshow(OPENCV_WINDOW, cv_ptr->image);
