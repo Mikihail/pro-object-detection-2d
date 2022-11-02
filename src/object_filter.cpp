@@ -202,4 +202,6 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 
 }
 
-void getXYZ(int x, in
+void getXYZ(int x, int y)
+{
+    int
