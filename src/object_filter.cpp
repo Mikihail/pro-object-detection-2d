@@ -205,4 +205,4 @@ void imageCallback(const sensor_msgs::ImageConstPtr& msg)
 void getXYZ(int x, int y)
 {
     int arrayPosition = y*my_pcl.row_step + x*my_pcl.point_step;
-    int arrayPosX = arrayPosition + my_pcl.fields[0].offse
+    int arrayPosX = arrayPosition + my_pcl.fields[0].offset; // X has 
