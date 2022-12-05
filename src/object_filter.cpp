@@ -211,4 +211,6 @@ void getXYZ(int x, int y)
 
     float X = 0.0;
     float Y = 0.0;
-    float Z
+    float Z = 0.0;
+
+ 
