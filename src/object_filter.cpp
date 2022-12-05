@@ -210,4 +210,5 @@ void getXYZ(int x, int y)
     int arrayPosZ = arrayPosition + my_pcl.fields[2].offset; // Z has an offset of 8
 
     float X = 0.0;
-    flo
+    float Y = 0.0;
+    float Z
