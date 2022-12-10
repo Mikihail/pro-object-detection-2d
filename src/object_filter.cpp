@@ -215,4 +215,4 @@ void getXYZ(int x, int y)
 
     geometry_msgs::Point p;
 
-    mem
+    memcpy(&X, &my_pcl.
