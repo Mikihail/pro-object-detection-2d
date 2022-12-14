@@ -215,4 +215,5 @@ void getXYZ(int x, int y)
 
     geometry_msgs::Point p;
 
-    memcpy(&X, &my_pcl.data[arrayPosX], sizeof(
+    memcpy(&X, &my_pcl.data[arrayPosX], sizeof(float));
+    memcpy
