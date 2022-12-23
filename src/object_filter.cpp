@@ -220,4 +220,5 @@ void getXYZ(int x, int y)
     memcpy(&Z, &my_pcl.data[arrayPosZ], sizeof(float));
 
     p.x = X;
-    p.y 
+    p.y = Y;
+    p.z =
