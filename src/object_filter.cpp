@@ -223,4 +223,5 @@ void getXYZ(int x, int y)
     p.y = Y;
     p.z = Z;
     ::X_111 = X;
-    ::Y_11
+    ::Y_111 = Y;
+    :
