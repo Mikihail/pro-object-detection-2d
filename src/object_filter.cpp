@@ -227,4 +227,4 @@ void getXYZ(int x, int y)
     ::Z_111 = Z;
     ::x_position = int(X*1000);
     ::y_position = int(Y*1000);
-    ::z
+    ::z_position = int(Z*
