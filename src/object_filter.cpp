@@ -230,4 +230,5 @@ void getXYZ(int x, int y)
     ::z_position = int(Z*1000);
 
     //printf("Position in X coordinate X = %.4f\n", X);
-    //printf("Position in Y coordinate Y = %.
+    //printf("Position in Y coordinate Y = %.4f\n", Y);
+    /
