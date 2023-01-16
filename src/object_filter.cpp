@@ -232,3 +232,8 @@ void getXYZ(int x, int y)
     //printf("Position in X coordinate X = %.4f\n", X);
     //printf("Position in Y coordinate Y = %.4f\n", Y);
     //printf("Position in Z coordinate Z = %.4f\n", Z);
+
+    //return 0;
+}
+
+voi
