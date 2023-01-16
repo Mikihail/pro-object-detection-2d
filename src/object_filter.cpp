@@ -236,4 +236,4 @@ void getXYZ(int x, int y)
     //return 0;
 }
 
-voi
+void depthcallback
