@@ -236,4 +236,4 @@ void getXYZ(int x, int y)
     //return 0;
 }
 
-void depthcallback
+void depthcallback (const senso
