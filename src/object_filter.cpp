@@ -236,4 +236,4 @@ void getXYZ(int x, int y)
     //return 0;
 }
 
-void depthcallback (const senso
+void depthcallback (const sensor_msgs::PointCloud2C
