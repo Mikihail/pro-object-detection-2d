@@ -236,4 +236,5 @@ void getXYZ(int x, int y)
     //return 0;
 }
 
-void depthcallback (const sensor_msgs::PointCloud2ConstPtr& 
+void depthcallback (const sensor_msgs::PointCloud2ConstPtr& cloud_msg)
+{
