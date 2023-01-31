@@ -238,4 +238,4 @@ void getXYZ(int x, int y)
 
 void depthcallback (const sensor_msgs::PointCloud2ConstPtr& cloud_msg)
 {
-    my_pcl = 
+    my_pcl = *cloud_msg;
