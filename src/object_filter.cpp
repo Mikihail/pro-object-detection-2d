@@ -242,3 +242,4 @@ void depthcallback (const sensor_msgs::PointCloud2ConstPtr& cloud_msg)
     getXYZ(posX , posY);
 }
 
+int main(int 
