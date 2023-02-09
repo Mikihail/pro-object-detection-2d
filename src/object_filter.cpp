@@ -246,4 +246,4 @@ int main(int argc, char** argv)
 {
 
 
-    ros::init (argc, argv,
+    ros::init (argc, argv, "image_conv
