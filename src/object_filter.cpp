@@ -246,4 +246,5 @@ int main(int argc, char** argv)
 {
 
 
-    ros::init (argc, argv, "image_conv
+    ros::init (argc, argv, "image_converter");
+    ros
