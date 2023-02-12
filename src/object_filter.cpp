@@ -247,4 +247,5 @@ int main(int argc, char** argv)
 
 
     ros::init (argc, argv, "image_converter");
-    ros
+    ros::NodeHandle nh;
+    
