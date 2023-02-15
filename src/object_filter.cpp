@@ -248,4 +248,5 @@ int main(int argc, char** argv)
 
     ros::init (argc, argv, "image_converter");
     ros::NodeHandle nh;
-    image_transport::ImageTransport it(n
+    image_transport::ImageTransport it(nh);
+    ima
