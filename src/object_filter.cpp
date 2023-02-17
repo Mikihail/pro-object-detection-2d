@@ -249,4 +249,4 @@ int main(int argc, char** argv)
     ros::init (argc, argv, "image_converter");
     ros::NodeHandle nh;
     image_transport::ImageTransport it(nh);
-    image_transport::Subscriber sub = it.subsc
+    image_transport::Subscriber sub = it.subscribe("/camera/c
