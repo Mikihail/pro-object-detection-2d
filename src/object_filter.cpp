@@ -251,3 +251,4 @@ int main(int argc, char** argv)
     image_transport::ImageTransport it(nh);
     image_transport::Subscriber sub = it.subscribe("/camera/color/image_raw",1, imageCallback);
     ros::Subscriber dep;
+    dep = nh.sub
