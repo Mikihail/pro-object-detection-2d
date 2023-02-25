@@ -253,4 +253,5 @@ int main(int argc, char** argv)
     ros::Subscriber dep;
     dep = nh.subscribe ("/camera/depth_registered/points", 1, depthcallback);
 
-    //Publish new 
+    //Publish new topic.
+    ro
