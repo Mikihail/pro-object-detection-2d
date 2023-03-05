@@ -254,4 +254,5 @@ int main(int argc, char** argv)
     dep = nh.subscribe ("/camera/depth_registered/points", 1, depthcallback);
 
     //Publish new topic.
-    ros::Publisher pub = nh.advertise<opencv_object_tracking::position_publish>("position_object", 
+    ros::Publisher pub = nh.advertise<opencv_object_tracking::position_publish>("position_object", 1);
+    //Set the 
