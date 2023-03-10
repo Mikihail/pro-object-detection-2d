@@ -256,4 +256,6 @@ int main(int argc, char** argv)
     //Publish new topic.
     ros::Publisher pub = nh.advertise<opencv_object_tracking::position_publish>("position_object", 1);
     //Set the loop period with 0.1 second.
-    ros::Rate loo
+    ros::Rate loop_rate(10);
+
+    
