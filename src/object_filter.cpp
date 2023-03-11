@@ -258,4 +258,5 @@ int main(int argc, char** argv)
     //Set the loop period with 0.1 second.
     ros::Rate loop_rate(10);
 
-    opencv_object_tracking::positi
+    opencv_object_tracking::position_publish msg;
+ 
