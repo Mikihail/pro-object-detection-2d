@@ -259,4 +259,4 @@ int main(int argc, char** argv)
     ros::Rate loop_rate(10);
 
     opencv_object_tracking::position_publish msg;
- 
+    msg.count
