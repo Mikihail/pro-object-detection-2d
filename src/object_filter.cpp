@@ -261,4 +261,5 @@ int main(int argc, char** argv)
     opencv_object_tracking::position_publish msg;
     msg.counter = 0;
 
-    //int c
+    //int count = 0;
+   
