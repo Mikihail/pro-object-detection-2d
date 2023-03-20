@@ -262,4 +262,5 @@ int main(int argc, char** argv)
     msg.counter = 0;
 
     //int count = 0;
-    while (
+    while ((ros::ok()))
+    
