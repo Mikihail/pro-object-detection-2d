@@ -265,4 +265,4 @@ int main(int argc, char** argv)
     while ((ros::ok()))
       {
 
-       //if ((posX != 0) && (po
+       //if ((posX != 0) && (posY != 0) && (flag
