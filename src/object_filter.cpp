@@ -266,4 +266,4 @@ int main(int argc, char** argv)
       {
 
        //if ((posX != 0) && (posY != 0) && (flag == true))
-  
+       //int c
