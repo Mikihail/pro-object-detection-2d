@@ -267,4 +267,5 @@ int main(int argc, char** argv)
 
        //if ((posX != 0) && (posY != 0) && (flag == true))
        //int count = 0;
-       if ((flag
+       if ((flag == true))
+  
