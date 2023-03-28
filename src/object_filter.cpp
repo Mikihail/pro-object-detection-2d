@@ -269,4 +269,5 @@ int main(int argc, char** argv)
        //int count = 0;
        if ((flag == true))
        {
-       int posX_1, p
+       int posX_1, posY_1;
+       
