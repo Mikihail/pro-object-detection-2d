@@ -270,4 +270,4 @@ int main(int argc, char** argv)
        if ((flag == true))
        {
        int posX_1, posY_1;
-       printf("Position i
+       printf("Position in X coordinate
