@@ -270,4 +270,4 @@ int main(int argc, char** argv)
        if ((flag == true))
        {
        int posX_1, posY_1;
-       printf("Position in X coordinate
+       printf("Position in X coordinate X = %.4f\n", X_
