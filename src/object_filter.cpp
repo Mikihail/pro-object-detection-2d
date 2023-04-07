@@ -272,4 +272,4 @@ int main(int argc, char** argv)
        int posX_1, posY_1;
        printf("Position in X coordinate X = %.4f\n", X_111);
        printf("Position in Y coordinate Y = %.4f\n", Y_111);
-       printf("Position in Z
+       printf("Position in Z coordinate Z = %.4
