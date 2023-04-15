@@ -274,4 +274,4 @@ int main(int argc, char** argv)
        printf("Position in Y coordinate Y = %.4f\n", Y_111);
        printf("Position in Z coordinate Z = %.4f\n", Z_111);
        //int count = 0;
-     
+       posX_1 = 
