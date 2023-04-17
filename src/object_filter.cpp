@@ -276,4 +276,5 @@ int main(int argc, char** argv)
        //int count = 0;
        posX_1 = posX;
        posY_1 = posY;
-       msg.Position_XYZ.
+       msg.Position_XYZ.clear();
+       
