@@ -277,4 +277,4 @@ int main(int argc, char** argv)
        posX_1 = posX;
        posY_1 = posY;
        msg.Position_XYZ.clear();
-       
+       msg.center_pix
