@@ -279,4 +279,4 @@ int main(int argc, char** argv)
        msg.Position_XYZ.clear();
        msg.center_pixel_x = posX;
        msg.center_pixel_y = posY;
-       msg
+       msg.counter = 
