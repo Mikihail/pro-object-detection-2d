@@ -281,4 +281,4 @@ int main(int argc, char** argv)
        msg.center_pixel_y = posY;
        msg.counter = 1;
 
-       g
+       geometry_msgs::Poin
