@@ -283,4 +283,4 @@ int main(int argc, char** argv)
 
        geometry_msgs::Point Position_XYZ;
        Position_XYZ.x = X_111;
-       Pos
+       Position_XYZ.y = Y_11
