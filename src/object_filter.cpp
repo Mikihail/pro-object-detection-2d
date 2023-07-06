@@ -285,4 +285,4 @@ int main(int argc, char** argv)
        Position_XYZ.x = X_111;
        Position_XYZ.y = Y_111;
        Position_XYZ.z = Z_111;
-       msg.Position_XYZ.push_back(Po
+       msg.Position_XYZ.push_back(Position_XYZ)
