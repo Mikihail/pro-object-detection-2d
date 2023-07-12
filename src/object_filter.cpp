@@ -287,4 +287,5 @@ int main(int argc, char** argv)
        Position_XYZ.z = Z_111;
        msg.Position_XYZ.push_back(Position_XYZ);
 
-       pub.publish
+       pub.publish(msg);
+       
