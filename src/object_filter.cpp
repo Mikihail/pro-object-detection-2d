@@ -292,4 +292,5 @@ int main(int argc, char** argv)
        //++count;
        }
 
-       if (fla
+       if (flag == false)
+  
