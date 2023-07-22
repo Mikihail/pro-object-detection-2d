@@ -294,4 +294,5 @@ int main(int argc, char** argv)
 
        if (flag == false)
        {
-        //count
+        //count = 0;
+        m
