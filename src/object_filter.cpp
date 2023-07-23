@@ -296,4 +296,4 @@ int main(int argc, char** argv)
        {
         //count = 0;
         msg.Position_XYZ.clear();
- 
+        msg.cen
