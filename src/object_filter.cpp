@@ -295,4 +295,5 @@ int main(int argc, char** argv)
        if (flag == false)
        {
         //count = 0;
-        msg.Positi
+        msg.Position_XYZ.clear();
+ 
