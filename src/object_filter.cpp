@@ -296,4 +296,5 @@ int main(int argc, char** argv)
        {
         //count = 0;
         msg.Position_XYZ.clear();
-        msg.center_pixel_x = 
+        msg.center_pixel_x = 0;
+        msg.c
