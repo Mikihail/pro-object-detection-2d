@@ -298,4 +298,4 @@ int main(int argc, char** argv)
         msg.Position_XYZ.clear();
         msg.center_pixel_x = 0;
         msg.center_pixel_y = 0;
- 
+        msg.counter
