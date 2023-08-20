@@ -300,4 +300,5 @@ int main(int argc, char** argv)
         msg.center_pixel_y = 0;
         msg.counter = 0;
 
-        geometry_msgs::Po
+        geometry_msgs::Point Position_XYZ;
+  
