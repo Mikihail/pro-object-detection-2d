@@ -300,4 +300,4 @@ int main(int argc, char** argv)
         msg.center_pixel_y = 0;
         msg.counter = 0;
 
-        geo
+        geometry_msgs::Po
