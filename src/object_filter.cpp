@@ -299,3 +299,5 @@ int main(int argc, char** argv)
         msg.center_pixel_x = 0;
         msg.center_pixel_y = 0;
         msg.counter = 0;
+
+        geo
