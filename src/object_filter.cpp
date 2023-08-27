@@ -301,4 +301,5 @@ int main(int argc, char** argv)
         msg.counter = 0;
 
         geometry_msgs::Point Position_XYZ;
-        Positi
+        Position_XYZ.x = 0;
+    
