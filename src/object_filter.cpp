@@ -303,4 +303,4 @@ int main(int argc, char** argv)
         geometry_msgs::Point Position_XYZ;
         Position_XYZ.x = 0;
         Position_XYZ.y = 0;
-     
+        Position_XYZ
