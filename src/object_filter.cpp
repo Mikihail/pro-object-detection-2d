@@ -304,4 +304,4 @@ int main(int argc, char** argv)
         Position_XYZ.x = 0;
         Position_XYZ.y = 0;
         Position_XYZ.z = 0;
-      
+        msg.Position_XY
