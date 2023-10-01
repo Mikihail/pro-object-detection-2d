@@ -310,4 +310,5 @@ int main(int argc, char** argv)
         loop_rate.sleep();
        }
 
-      ros::
+      ros::spinOnce();
+  
